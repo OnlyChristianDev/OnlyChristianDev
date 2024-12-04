@@ -9,7 +9,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor entusiasta com foco em c
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,git,tailwind,next,mysql,figma)](https://skillicons.dev)
 
 ## 🌐 Conecte-se Comigo
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/christiangdev/)
+Linkedin: https://www.linkedin.com/in/christiangdev/
 Portfólio Interativo: https://portfolio-chrisitiangabriel.vercel.app/
 Email: christiandeveloper@gmail.com
 
