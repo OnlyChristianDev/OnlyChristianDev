@@ -11,7 +11,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor entusiasta com foco em c
 ## 🌐 Conecte-se Comigo
 Linkedin: https://www.linkedin.com/in/christiangdev/
 
-Portfólio Interativo: https://portfolio-chrisitiangabriel.vercel.app/
+Portfólio: https://portfolio-chrisitiangabriel.vercel.app/
 
 Email: christiandeveloper@gmail.com
 
