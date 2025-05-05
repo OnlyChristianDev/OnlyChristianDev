@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor entusiasta com foco em c
 ## 🚀 Sobre Mim
 💻 Habilidades principais:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,git,tailwind,next,mysql,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,vue,git,tailwind,next,mysql,figma)](https://skillicons.dev)
 
 ## 🌐 Conecte-se Comigo
 Linkedin: https://www.linkedin.com/in/christiangdev/
